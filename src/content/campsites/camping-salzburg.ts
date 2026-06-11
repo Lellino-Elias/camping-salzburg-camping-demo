@@ -18,7 +18,6 @@ const campingSalzburg: CampsiteConfig = {
   brandKind: "Camping & Pub",
   regionLong: "Koppl · bei Salzburg · Salzburger Land · Österreich",
 
-  theme: "schiefer",
   heroVariant: "center",
 
   claim: "Camping mit eigenem Pub — vor den Toren Salzburgs",
@@ -164,7 +163,6 @@ const campingSalzburg: CampsiteConfig = {
     telHref: "tel:+4362218477",
     mail: "camping_huberbauer@hotmail.com",
     adresse: "Jakobistraße 30 · 5321 Koppl · Salzburger Land",
-    coords: { lat: 47.815635, lng: 13.1589734 },
   },
 
   languages: ["DE"],
