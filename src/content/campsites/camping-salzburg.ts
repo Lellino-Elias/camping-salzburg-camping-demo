@@ -159,6 +159,7 @@ const campingSalzburg: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.815652, lng: 13.159382 },
     tel: "+43 6221 8477",
     telHref: "tel:+4362218477",
     mail: "camping_huberbauer@hotmail.com",
