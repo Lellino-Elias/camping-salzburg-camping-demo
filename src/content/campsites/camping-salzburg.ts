@@ -139,7 +139,7 @@ const campingSalzburg: CampsiteConfig = {
       { src: `${IMG}/gallery-bd2ce2f36a.webp`, alt: "Bosna aus dem Camp24" },
       { src: `${IMG}/gallery-8fedbf00ae.webp`, alt: "Schweizer Wurstsalat aus dem Camp24" },
       { src: `${IMG}/gallery-4443582b68.webp`, alt: "Goldgelbe Calzone aus dem Camp24" },
-      { src: `${IMG}/gallery-118b0221a9.webp`, alt: "Willkommen im Camp24 — Öffnungszeiten und Blumenschmuck" },
+      { src: `${IMG}/gallery-acd70c6e1b.webp`, alt: "Sonniger Gastgarten des Camp24 mit Stiegl-Schirm und Holzmöbeln" },
     ],
   },
 
